@@ -1,3 +1,4 @@
+```matlab
 function hungryzone()
 hungry.world_horizontal=20;
 hungry.world_vertical=20;
@@ -164,3 +165,4 @@ end
 guidata(hungry.world_box, hungry);
 body_initialization(hungry);
 end
+```
